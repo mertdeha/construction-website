@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Construction-Website
 
 A modern, user-friendly and responsive website design by using HTML5, CSS3 and Bootstrap.
